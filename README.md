@@ -18,4 +18,6 @@ This project reflects my passion for data visualization, business intelligence, 
 Power BI Dashboard, Mobile Revenue Analysis, Data Science Portfolio, Business Intelligence Reporting, Revenue Analytics Dashboard, Automotive Data Analysis, Power BI Visualization, Data Analyst Projects, Advanced Power BI Dashboard, BI Portfolio.
 
 Screenshot/ demo - show what the dashboard look like -
-![Dashboard Preview](https://github.com/Nishantt98/Mobile-Revenue-Dashboard/blob/main/Dashboard_Preview.pdf)
+![Dashboard Preview](https://github.com/Nishantt98/Mobile-Revenue-Dashboard/blob/main/s1.png)
+![Dashboard Preview](https://github.com/Nishantt98/Mobile-Revenue-Dashboard/blob/main/s2.png)
+![Dashboard Preview](https://github.com/Nishantt98/Mobile-Revenue-Dashboard/blob/main/s3.png)
