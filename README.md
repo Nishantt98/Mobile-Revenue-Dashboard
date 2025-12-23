@@ -3,9 +3,9 @@
 I’m excited to share a Mobile Revenue Report Dashboard built using Microsoft Power BI (DAX Query),Excel, designed to transform raw data into clear, actionable business insights.
 The dashboard is designed to provide a same period last year revenue analysics for better understanding, time save and increase business intelligence.By leveraging various data visualizations, it transforms raw revenue data into actionable business intelligence.
 
-💡 Key Highlights:
-✔ Use PowerBI Query
-✔ Data Cleaning
+💡 Key Highlights: 
+✔ Use PowerBI Query 
+✔ Data Cleaning 
 ✔ Data Modeling 
 ✔ Different Visualization
 ✔ DAX formulas
